@@ -4,8 +4,9 @@ A small end-to-end pipeline for lumbar spine CT: it harmonises two public datase
 
 The model was trained on the TotalSegmentator small subset (93 cases after preprocessing) and evaluated in-domain on a held-out TotalSegmentator split and out-of-domain on VerSe'19.
 
-![Example segmentation](bsp.png)
-<img src="bsp.png" alt="Example segmentation" width="500">
+<p align="center">
+  <img src="bsp.png" alt="Example segmentation" width="700">
+</p>
 <!-- Placeholder: add a sagittal slice with the L1–L5 prediction overlay here -->
 
 ---
