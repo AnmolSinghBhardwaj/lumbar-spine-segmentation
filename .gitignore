@@ -1,0 +1,28 @@
+# Daten (nicht hochladen: Größe und Lizenzen)
+dataset-verse19training/
+dataset-verse19test/
+Totalsegmentator_dataset/
+Totalsegmentator_dataset_small_v201/
+processed/
+preds/
+centroids/
+out/
+*.nii
+*.nii.gz
+*.zip
+
+# Python / Umgebung
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Auswertungsdateien und lokale Ablage
+*.csv
+inventory.csv
+
+# System / Editor
+.DS_Store
+Thumbs.db
+.vscode/
