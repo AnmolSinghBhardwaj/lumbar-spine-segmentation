@@ -7,6 +7,9 @@ The model was trained on the TotalSegmentator small subset (93 cases after prepr
 <p align="center">
   <img src="bsp.png" alt="Example segmentation" width="700">
 </p>
+<p align="center">
+  <img src="png.png" alt="Example segmentation" width="700">
+</p>
 <!-- Placeholder: add a sagittal slice with the L1–L5 prediction overlay here -->
 
 ---
